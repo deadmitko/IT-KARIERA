@@ -29,21 +29,34 @@ namespace ConsoleApp1
         public void dobavi(string text)
         {
             var gosho = text.ToList();
-            
-            for (int i=0; i < dulj; i++)
+            int pos = 0;
+            while (true)
             {
-                data[i] = gosho[i];
-                
-                
+                if (text.Length - pos > dulj)
+                {
+                    for (int i = 0; i < dulj; i++)
+                    {
+
+                        data[i] = gosho[pos];
+                        pos++;
+
+                    }
+                    Dispose();
+                }
+                else
+                {
+                    var pos2 = pos;
+                    for (int i = 0; i < text.Length - pos; i++)
+                    {
+
+                        data[i] = gosho[pos2];
+
+                        pos2++;
+                    }
+                    Dispose();
+                    break;
+                }
             }
-            Dispose();
-            for (int i = 0; i < gosho.Count - dulj; i++)
-            {
-                gosho.RemoveAt(i);
-
-
-            }
-
 
 
         }
