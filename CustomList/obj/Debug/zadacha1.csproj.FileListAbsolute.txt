@@ -1,0 +1,7 @@
+C:\Users\KK1 - PC1\source\repos\CustomList\CustomList\bin\Debug\CustomList.exe.config
+C:\Users\KK1 - PC1\source\repos\CustomList\CustomList\bin\Debug\CustomList.exe
+C:\Users\KK1 - PC1\source\repos\CustomList\CustomList\bin\Debug\CustomList.pdb
+C:\Users\KK1 - PC1\source\repos\CustomList\CustomList\obj\Debug\zadacha1.csprojAssemblyReference.cache
+C:\Users\KK1 - PC1\source\repos\CustomList\CustomList\obj\Debug\zadacha1.csproj.CoreCompileInputs.cache
+C:\Users\KK1 - PC1\source\repos\CustomList\CustomList\obj\Debug\CustomList.exe
+C:\Users\KK1 - PC1\source\repos\CustomList\CustomList\obj\Debug\CustomList.pdb

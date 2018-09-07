@@ -1,0 +1,7 @@
+C:\Users\KK1 - PC1\source\repos\CustomList\nasledqvane\bin\Debug\nasledqvane.exe.config
+C:\Users\KK1 - PC1\source\repos\CustomList\nasledqvane\bin\Debug\nasledqvane.exe
+C:\Users\KK1 - PC1\source\repos\CustomList\nasledqvane\bin\Debug\nasledqvane.pdb
+C:\Users\KK1 - PC1\source\repos\CustomList\nasledqvane\obj\Debug\nasledqvane.csprojAssemblyReference.cache
+C:\Users\KK1 - PC1\source\repos\CustomList\nasledqvane\obj\Debug\nasledqvane.csproj.CoreCompileInputs.cache
+C:\Users\KK1 - PC1\source\repos\CustomList\nasledqvane\obj\Debug\nasledqvane.exe
+C:\Users\KK1 - PC1\source\repos\CustomList\nasledqvane\obj\Debug\nasledqvane.pdb
